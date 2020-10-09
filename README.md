@@ -3,6 +3,7 @@
 ## Installation
 
 ```bash
+$ git clone project-url
 $ npm install
 ```
 
